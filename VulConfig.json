@@ -1,0 +1,8 @@
+{
+  "replacements": {
+    "m_sqli": "SQL注入",
+    "m_xss": "跨站脚本攻击",
+    "m_csrf": "跨站请求伪造",
+    "m_cmd_injection": "命令执行"
+  }
+}

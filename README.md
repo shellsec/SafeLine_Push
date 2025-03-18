@@ -3,6 +3,11 @@
 
 ![雷池WAF](https://zone.huoxian.cn/uploads/202401/1705990046-6583b0be5c4c5.png)
 
+https://github.com/shellsec/SafeLine_Api
+用于管理SafeLine WAF策略的FastAPI接口服务
+支持多雷池WAF实例管理
+提供策略启用/禁用接口
+
 ## 📖 项目简介
 专为雷池社区版WAF设计的自动化告警推送解决方案，实现：
 - 实时攻击告警推送
